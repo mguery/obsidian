@@ -11,3 +11,4 @@
 - [Copy my dashboard](https://github.com/mguery/obsidian/blob/main/dashboard-pc.md) or the [original from TfTHacker](https://github.com/TfTHacker/DashboardPlusPlus/blob/master/Dashboard%2B%2B.md)
 - In edit mode: Paste and edit to create your plan
 - Click reading mode to view dashboard
+- Use the [Course template](https://github.com/mguery/obsidian/blob/main/Course%20Name) for each course
